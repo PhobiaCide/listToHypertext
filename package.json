@@ -1,0 +1,27 @@
+{
+  "name": "list-to-hypertext",
+  "version": "1.0.0",
+  "description": "A Node.js script that marks up a plain, line delimited list (ordered or unordered), a line delimited list (ordered or unordered) of line delimited lists (ordered or unordered), or a line delimited list (ordered or unordered) of terms and definitions and produces HTML for file named 'output.html'.",
+  "main": "output.html",
+  "scripts": {
+    "run": "node listToHypertext.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "node",
+    "HTML",
+    "ordered",
+    "list",
+    "<dd>",
+    "</dd>",
+    "<dl>",
+    "</dl>",
+    "<dt>",
+    "</dt>"
+  ],
+  "author": "PhobiaCide",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

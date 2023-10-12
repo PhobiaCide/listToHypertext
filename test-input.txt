@@ -1,0 +1,56 @@
+1. input.txt: Contains an ordered list of colon(:) delimited terms and definitions to be made into an HTML ordered list of the same kind.
+2. ordered list: A numbered list of items
+3. term: A relevant word to be defined
+4. definition: A description of the meaning of a term
+5. programming: The process of designing and creating software applications.
+JavaScript: A popular programming language used for web development.
+
+HTML: HyperText Markup Language, used to structure web content.
+CSS: Cascading Style Sheets, used for styling web pages.
+API: Application Programming Interface, a set of rules for building and interacting with software applications.
+Database: A structured collection of data stored electronically.
+
+1. Term 1: Definition 1
+2. Term 2: Definition 2
+3. Term 3: Definition 3
+This is a simple line
+Another simple line
+
+1. Term 1: Definition 1
+4. Term 2: Definition 2
+5. Term 3: Definition 3
+This is a simple line
+Another simple line
+
+Item 1
+Item 2
+Item 3
+This is a simple line
+Another simple line
+
+1. Term 1: Definition 1
+Item 1
+Item 2
+
+2. Term 2: Definition 2
+This is a simple line
+
+Item 3
+Another simple line
+
+1. Term 1: Definition 1
+
+
+Item 1
+
+2. Term 2: Definition 2
+
+This is a simple line
+
+Item 2
+
+
+
+Another simple line
+
+WHO(World Health Organization): An organization for world health
