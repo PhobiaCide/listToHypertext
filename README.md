@@ -2,7 +2,7 @@
 
 ## Scenarios
 
-Let's break down the expected output based on different that demonstrate how the script can handle various combinations of ordered and unordered lists, as well as blank lines, and abbreviations to generate the appropriate HTML output.
+Let's break down the expected output based on different scenarios that demonstrate how the script can handle various combinations of ordered and unordered lists, as well as blank lines, and abbreviations to generate the appropriate HTML output.
 
 ### **Scenario 1: Input Text with Consecutive Ordered List**
 
